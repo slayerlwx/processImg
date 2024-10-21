@@ -1,9 +1,108 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.8.0">
   <diagram name="第 1 页" id="7Ia6LV6EffJAOyBjoM6B">
-    <mxGraphModel>
+    <mxGraphModel dx="1508" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RjVqlJGAlBlehvrmRA9-1" target="5RjVqlJGAlBlehvrmRA9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-1" value="会员签约" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RjVqlJGAlBlehvrmRA9-2" target="5RjVqlJGAlBlehvrmRA9-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-17" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5RjVqlJGAlBlehvrmRA9-16">
+          <mxGeometry x="-0.28" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5RjVqlJGAlBlehvrmRA9-2" target="5RjVqlJGAlBlehvrmRA9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-37" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5RjVqlJGAlBlehvrmRA9-36">
+          <mxGeometry x="-0.1745" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-2" value="首次签约" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RjVqlJGAlBlehvrmRA9-7" target="5RjVqlJGAlBlehvrmRA9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-7" value="发起签约" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="528" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RjVqlJGAlBlehvrmRA9-9" target="5RjVqlJGAlBlehvrmRA9-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-9" value="调用支付宝" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="528" y="1000" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RjVqlJGAlBlehvrmRA9-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="448" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-11" value="生成记录" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="528" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-13" value="用户去支付宝签约" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="1140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RjVqlJGAlBlehvrmRA9-15" target="5RjVqlJGAlBlehvrmRA9-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-15" value="当前用户非首次签约" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RjVqlJGAlBlehvrmRA9-18" target="5RjVqlJGAlBlehvrmRA9-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-27" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5RjVqlJGAlBlehvrmRA9-21">
+          <mxGeometry x="-0.3133" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RjVqlJGAlBlehvrmRA9-18" target="5RjVqlJGAlBlehvrmRA9-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-18" value="当前用户是否有银行卡签约通道" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-20" value="终止" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RjVqlJGAlBlehvrmRA9-22" target="5RjVqlJGAlBlehvrmRA9-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-26" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5RjVqlJGAlBlehvrmRA9-25">
+          <mxGeometry x="-0.0467" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5RjVqlJGAlBlehvrmRA9-22" target="5RjVqlJGAlBlehvrmRA9-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-22" value="最新一条签约记录是否签约中" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-24" value="终止" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5RjVqlJGAlBlehvrmRA9-30" target="5RjVqlJGAlBlehvrmRA9-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-40" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5RjVqlJGAlBlehvrmRA9-39">
+          <mxGeometry x="-0.1879" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5RjVqlJGAlBlehvrmRA9-30" value="是否签约成功" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
