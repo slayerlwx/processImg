@@ -159,7 +159,10 @@
             <mxPoint x="630.2449999999999" y="1582" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EIVOLAMRmLMKQAUIXGPY-82" value="&lt;font class=&quot;__Cici__translate__ __Cici_translate_similar_text_content__&quot;&gt;&amp;nbsp;&lt;font style=&quot;display: inline-block;&quot; class=&quot;__Cici_translate_translated_inject_node__&quot;&gt;&lt;span&gt;检查通过，BD提交订单&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;OrderBusinessFacade#submitOrderV2&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="CgvkEylHf-sR_P--1ABe-71" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EIVOLAMRmLMKQAUIXGPY-82" target="CgvkEylHf-sR_P--1ABe-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EIVOLAMRmLMKQAUIXGPY-82" value="&lt;font class=&quot;__Cici__translate__ __Cici_translate_similar_text_content__&quot;&gt;BD 提交订单&lt;font style=&quot;display: inline-block;&quot; class=&quot;__Cici_translate_translated_inject_node__&quot;&gt;&lt;span&gt;检查通过，BD提交订单&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;OrderBusinessFacade#submitOrderV2&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="293.37" y="1552" width="211.25" height="60" as="geometry" />
         </mxCell>
         <mxCell id="CgvkEylHf-sR_P--1ABe-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CgvkEylHf-sR_P--1ABe-3" target="CgvkEylHf-sR_P--1ABe-4">
@@ -336,6 +339,33 @@
         </mxCell>
         <mxCell id="CgvkEylHf-sR_P--1ABe-65" value="更新状态为APR&lt;font class=&quot;__Cici__translate__ __Cici_translate_similar_text_content__&quot;&gt;&lt;font style=&quot;display: none;&quot; class=&quot;__Cici_translate_origin_node__&quot;&gt;更新状态为APR&lt;/font&gt; &lt;font style=&quot;display: inline-block;&quot; class=&quot;__Cici_translate_translated_inject_node__&quot;&gt;&lt;span&gt;更新状态为APR&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;子状态BTL_SUPP_DONE&lt;/div&gt;&lt;div&gt;操作类型&amp;nbsp;END_APR&lt;/div&gt;&lt;div&gt;保存数据‘&lt;/div&gt;&lt;div&gt;提交风控&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="1032.5" y="2401" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="CgvkEylHf-sR_P--1ABe-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CgvkEylHf-sR_P--1ABe-70" target="CgvkEylHf-sR_P--1ABe-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgvkEylHf-sR_P--1ABe-70" value="风控策略执行&lt;div&gt;跑用户资信&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="338.995" y="2315" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CgvkEylHf-sR_P--1ABe-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CgvkEylHf-sR_P--1ABe-72" target="CgvkEylHf-sR_P--1ABe-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgvkEylHf-sR_P--1ABe-72" value="出额" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="338.995" y="2455" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CgvkEylHf-sR_P--1ABe-81" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CgvkEylHf-sR_P--1ABe-74" target="CgvkEylHf-sR_P--1ABe-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgvkEylHf-sR_P--1ABe-74" value="LPS接收风控终审结果" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="338.995" y="2595" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CgvkEylHf-sR_P--1ABe-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="CgvkEylHf-sR_P--1ABe-80" target="CgvkEylHf-sR_P--1ABe-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CgvkEylHf-sR_P--1ABe-80" value="ApplBtlServiceImpl#dealApplBtlEndResult" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="539" y="2595" width="241.01" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CgvkEylHf-sR_P--1ABe-82" value="风控结果处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="840" y="2595" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
