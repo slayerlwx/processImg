@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.8.2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.8.3">
   <diagram name="第 1 页" id="A_YlBjff-S_b-Y9HQc1S">
     <mxGraphModel dx="2335" dy="846" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="EIVOLAMRmLMKQAUIXGPY-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EIVOLAMRmLMKQAUIXGPY-49" target="EIVOLAMRmLMKQAUIXGPY-82" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EIVOLAMRmLMKQAUIXGPY-49" value="提交前检查&lt;br&gt;&lt;font style=&quot;display: inline;&quot; class=&quot;__Cici__translate__ __Cici_translate_similar_text_content__&quot;&gt;&lt;/font&gt;&lt;div&gt;qihoo.sdk.btl.order.submit.precheck&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+        <mxCell id="EIVOLAMRmLMKQAUIXGPY-49" value="提交前检查&lt;br&gt;&lt;font style=&quot;display: inline;&quot; class=&quot;__Cici__translate__ __Cici_translate_similar_text_content__&quot;&gt;&lt;/font&gt;&lt;div&gt;qihoo.sdk.btl.order.submit.precheck&lt;font class=&quot;__Cici__translate__&quot;&gt;&lt;font style=&quot;display: none;&quot; class=&quot;__Cici_translate_origin_node__&quot;&gt;qihoo.sdk.btl.order.submit.precheck&lt;/font&gt; &lt;font style=&quot;display: inline-block;&quot; class=&quot;__Cici_translate_translated_inject_node__&quot;&gt;&lt;span&gt;奇虎 sdk btl 订单提交预检查&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="283.5" y="871" width="230.5" height="60" as="geometry" />
         </mxCell>
         <mxCell id="EIVOLAMRmLMKQAUIXGPY-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="EIVOLAMRmLMKQAUIXGPY-57" target="EIVOLAMRmLMKQAUIXGPY-61" edge="1">
@@ -343,7 +343,7 @@
         <mxCell id="CgvkEylHf-sR_P--1ABe-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CgvkEylHf-sR_P--1ABe-70" target="CgvkEylHf-sR_P--1ABe-72" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="htz6D22gmQiTvW2F8i0u-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CgvkEylHf-sR_P--1ABe-70" target="htz6D22gmQiTvW2F8i0u-1">
+        <mxCell id="htz6D22gmQiTvW2F8i0u-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CgvkEylHf-sR_P--1ABe-70" target="htz6D22gmQiTvW2F8i0u-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CgvkEylHf-sR_P--1ABe-70" value="风控策略执行&lt;div&gt;跑用户资信&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
@@ -484,22 +484,22 @@
         <mxCell id="CgvkEylHf-sR_P--1ABe-130" value="保存授信成功事件&lt;div&gt;更新订单状态CREDIT_SUC&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1145" y="3420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="htz6D22gmQiTvW2F8i0u-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="htz6D22gmQiTvW2F8i0u-1" target="htz6D22gmQiTvW2F8i0u-3">
+        <mxCell id="htz6D22gmQiTvW2F8i0u-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="htz6D22gmQiTvW2F8i0u-1" target="htz6D22gmQiTvW2F8i0u-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="htz6D22gmQiTvW2F8i0u-1" value="apv输出需补件&lt;font class=&quot;__Cici__translate__ __Cici_translate_similar_text_content__&quot;&gt;&lt;font style=&quot;display: none;&quot; class=&quot;__Cici_translate_origin_node__&quot;&gt;apv输出需补件&lt;/font&gt; &lt;font style=&quot;display: inline-block;&quot; class=&quot;__Cici_translate_translated_inject_node__&quot;&gt;&lt;span&gt;apv输出需补件&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;ApplCreditSuppFacadeImpl#noticeApplCreditSupp&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="htz6D22gmQiTvW2F8i0u-1" value="apv输出需补件&lt;font class=&quot;__Cici__translate__ __Cici_translate_similar_text_content__&quot;&gt;&lt;font style=&quot;display: none;&quot; class=&quot;__Cici_translate_origin_node__&quot;&gt;apv输出需补件&lt;/font&gt; &lt;font style=&quot;display: inline-block;&quot; class=&quot;__Cici_translate_translated_inject_node__&quot;&gt;&lt;span&gt;apv输出需补件&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;div&gt;ApplCreditSuppFacadeImpl#noticeApplCreditSupp&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="-50" y="2315" width="310" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="htz6D22gmQiTvW2F8i0u-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="htz6D22gmQiTvW2F8i0u-3" target="htz6D22gmQiTvW2F8i0u-5">
+        <mxCell id="htz6D22gmQiTvW2F8i0u-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="htz6D22gmQiTvW2F8i0u-3" target="htz6D22gmQiTvW2F8i0u-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="htz6D22gmQiTvW2F8i0u-3" value="BD二次补件" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="htz6D22gmQiTvW2F8i0u-3" value="BD二次补件" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="45.00500000000001" y="2420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="htz6D22gmQiTvW2F8i0u-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="htz6D22gmQiTvW2F8i0u-5" target="CgvkEylHf-sR_P--1ABe-70">
+        <mxCell id="htz6D22gmQiTvW2F8i0u-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="htz6D22gmQiTvW2F8i0u-5" target="CgvkEylHf-sR_P--1ABe-70" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="htz6D22gmQiTvW2F8i0u-5" value="补件完成再次提交" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="htz6D22gmQiTvW2F8i0u-5" value="补件完成再次提交" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="45.00500000000001" y="2520" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
