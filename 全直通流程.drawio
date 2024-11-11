@@ -1,9 +1,48 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.8.4">
   <diagram name="第 1 页" id="A0777vek0j0JSKXQK9_4">
-    <mxGraphModel>
+    <mxGraphModel dx="806" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="5QuEPFjCGACMdQFPJvil-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5QuEPFjCGACMdQFPJvil-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="451" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5QuEPFjCGACMdQFPJvil-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5QuEPFjCGACMdQFPJvil-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5QuEPFjCGACMdQFPJvil-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="451" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5QuEPFjCGACMdQFPJvil-4" value="自然流量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5QuEPFjCGACMdQFPJvil-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5QuEPFjCGACMdQFPJvil-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5QuEPFjCGACMdQFPJvil-5" value="名单导入" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5QuEPFjCGACMdQFPJvil-6" value="银联推送" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5QuEPFjCGACMdQFPJvil-15" value="地空结合池" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5QuEPFjCGACMdQFPJvil-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5QuEPFjCGACMdQFPJvil-19" target="5QuEPFjCGACMdQFPJvil-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QuEPFjCGACMdQFPJvil-19" value="用户选择城市" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="391" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5QuEPFjCGACMdQFPJvil-20" value="&lt;span style=&quot;color: rgb(96, 98, 102); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;qihoo.btl.zzl.h5.can.appl.query&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol&quot; color=&quot;#606266&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;外渠准入查询&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="361.5" y="524.5" width="179" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
