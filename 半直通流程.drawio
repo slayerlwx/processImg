@@ -14,7 +14,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5QuEPFjCGACMdQFPJvil-19" value="通过用户归属地自动分配虚拟BD" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="122" y="683" width="120" height="60" as="geometry" />
+          <mxGeometry x="122" y="691" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Cu_a6kPjpPEJnt5boz2_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5QuEPFjCGACMdQFPJvil-20" target="Cu_a6kPjpPEJnt5boz2_-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
