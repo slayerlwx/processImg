@@ -1,0 +1,142 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" version="24.8.4">
+  <diagram name="第 1 页" id="A0777vek0j0JSKXQK9_4">
+    <mxGraphModel dx="1318" dy="2015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5QuEPFjCGACMdQFPJvil-6" target="5QuEPFjCGACMdQFPJvil-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QuEPFjCGACMdQFPJvil-6" value="银联推送" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="538" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5QuEPFjCGACMdQFPJvil-15" target="Cu_a6kPjpPEJnt5boz2_-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QuEPFjCGACMdQFPJvil-15" value="进入名单表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="391" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5QuEPFjCGACMdQFPJvil-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5QuEPFjCGACMdQFPJvil-19" target="5QuEPFjCGACMdQFPJvil-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QuEPFjCGACMdQFPJvil-19" value="通过用户归属地自动分配虚拟BD" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="391" y="683" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="5QuEPFjCGACMdQFPJvil-20" target="Cu_a6kPjpPEJnt5boz2_-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5QuEPFjCGACMdQFPJvil-20" value="&lt;span style=&quot;color: rgb(96, 98, 102); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; text-align: left; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;qihoo.btl.zzl.h5.can.appl.query&lt;/span&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol&quot; color=&quot;#606266&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;外渠准入查询&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="361.5" y="827.5" width="179" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Cu_a6kPjpPEJnt5boz2_-1" target="Cu_a6kPjpPEJnt5boz2_-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(96, 98, 102); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;qihoo.sdk.appl.item.h5PlusCommit&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol&quot; color=&quot;#606266&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font class=&quot;__Cici__translate__ __Cici_translate_similar_text_content__&quot;&gt;H5通用提交 &lt;font style=&quot;display: inline-block;&quot; class=&quot;__Cici_translate_translated_inject_node__&quot;&gt;&lt;span&gt;外渠准入查询&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="361.5" y="967.5" width="179" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Cu_a6kPjpPEJnt5boz2_-3" target="Cu_a6kPjpPEJnt5boz2_-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-3" value="初审通过" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="391" y="1107.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Cu_a6kPjpPEJnt5boz2_-5" target="Cu_a6kPjpPEJnt5boz2_-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-5" value="用户端补充资料页" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="391" y="1247.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-7" value="补充资料提交直接提交风控" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="391" y="1387.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Cu_a6kPjpPEJnt5boz2_-12" target="Cu_a6kPjpPEJnt5boz2_-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-12" value="准入定时任务进行准入，给用户发送短信" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="391" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Cu_a6kPjpPEJnt5boz2_-15" target="5QuEPFjCGACMdQFPJvil-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-15" value="用户通过外链进件" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="391" y="563" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Cu_a6kPjpPEJnt5boz2_-19" target="5QuEPFjCGACMdQFPJvil-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-19" value="存量户2.0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="391" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Cu_a6kPjpPEJnt5boz2_-21" target="5QuEPFjCGACMdQFPJvil-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-21" value="促申请完件" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="248" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Cu_a6kPjpPEJnt5boz2_-25" target="Cu_a6kPjpPEJnt5boz2_-27" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-25" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="391" y="-72" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Cu_a6kPjpPEJnt5boz2_-27" target="Cu_a6kPjpPEJnt5boz2_-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Cu_a6kPjpPEJnt5boz2_-27" target="Cu_a6kPjpPEJnt5boz2_-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Cu_a6kPjpPEJnt5boz2_-27" target="5QuEPFjCGACMdQFPJvil-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-27" value="数据源" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="391" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5MQgcMq0XkbjuDPrcWQI-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Cu_a6kPjpPEJnt5boz2_-32" target="5MQgcMq0XkbjuDPrcWQI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-32" value="用户通过APP进件" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="644.5" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Cu_a6kPjpPEJnt5boz2_-33" target="Cu_a6kPjpPEJnt5boz2_-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-33" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol&quot; color=&quot;#606266&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;qihoo.btl.zzl.app.appl.query&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol&quot; color=&quot;#606266&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;准入&lt;/span&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="615" y="827.5" width="179" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Cu_a6kPjpPEJnt5boz2_-37" target="Cu_a6kPjpPEJnt5boz2_-39" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-37" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;color: rgb(96, 98, 102); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;qihoo.sdk.appl.item.&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); color: rgb(96, 98, 102); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;; white-space-collapse: preserve;&quot;&gt;Commit&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;font face=&quot;-apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Helvetica Neue, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol&quot; color=&quot;#606266&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font class=&quot;__Cici__translate__ __Cici_translate_similar_text_content__&quot;&gt;通用提交 &lt;font style=&quot;display: inline-block;&quot; class=&quot;__Cici_translate_translated_inject_node__&quot;&gt;&lt;span&gt;外渠准入查询&lt;/span&gt;&lt;/font&gt;&lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="590" y="967.5" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Cu_a6kPjpPEJnt5boz2_-39" target="Cu_a6kPjpPEJnt5boz2_-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-39" value="初审通过" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="645.5" y="1107.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Cu_a6kPjpPEJnt5boz2_-41" target="Cu_a6kPjpPEJnt5boz2_-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-41" value="用户端补充资料页" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="645.5" y="1247.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-42" value="补充资料提交直接提交风控" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
+          <mxGeometry x="645.5" y="1387.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Cu_a6kPjpPEJnt5boz2_-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.411;entryY=0.07;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="Cu_a6kPjpPEJnt5boz2_-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="522" y="450" as="sourcePoint" />
+            <mxPoint x="704.8199999999999" y="574.1999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5MQgcMq0XkbjuDPrcWQI-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5MQgcMq0XkbjuDPrcWQI-1" target="Cu_a6kPjpPEJnt5boz2_-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5MQgcMq0XkbjuDPrcWQI-1" value="通过用户归属地自动分配虚拟BD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="644.5" y="683" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
