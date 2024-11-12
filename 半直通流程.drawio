@@ -136,7 +136,7 @@
         <mxCell id="_-oeb8FpZkZA4vL1cEHh-5" value="进入分配池等待分配真实的BD进行跟进" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="645.5" y="1247.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_-oeb8FpZkZA4vL1cEHh-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_-oeb8FpZkZA4vL1cEHh-9" target="_-oeb8FpZkZA4vL1cEHh-13">
+        <mxCell id="_-oeb8FpZkZA4vL1cEHh-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_-oeb8FpZkZA4vL1cEHh-9" target="_-oeb8FpZkZA4vL1cEHh-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_-oeb8FpZkZA4vL1cEHh-9" value="BD进行补充资料，流程同周转灵直销流程" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
@@ -149,7 +149,7 @@
           <mxGeometry x="645.5" y="1691.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_-oeb8FpZkZA4vL1cEHh-13" value="结束" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="242" y="1820" width="120" height="60" as="geometry" />
+          <mxGeometry x="371" y="1820" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
